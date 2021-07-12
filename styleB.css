@@ -1,0 +1,7 @@
+.anim-background{
+    background-image: url("images/background1.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  } 
